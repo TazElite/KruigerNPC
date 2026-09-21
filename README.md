@@ -1,3 +1,5 @@
+![KruigerNPC](assets/banner.png)
+
 # KruigerNoNPC
 
 A simple standalone FiveM resource that allows authorized staff to enable or disable ambient NPCs and NPC traffic server-wide using `/togglenpc`.
